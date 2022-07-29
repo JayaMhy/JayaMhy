@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayaMhy
 - 👀 I’m interested in learning new things
-- 📫 Mail me at jayaranimhy@gmail.com
+- 📫 Mail me at jayamhy1@gmail.com
 
 <!---
 JayaMhy/JayaMhy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
